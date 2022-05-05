@@ -1,0 +1,15 @@
+D:\source\repos\JsonData\JsonData\bin\Debug\net6.0\JsonData.exe
+D:\source\repos\JsonData\JsonData\bin\Debug\net6.0\JsonData.deps.json
+D:\source\repos\JsonData\JsonData\bin\Debug\net6.0\JsonData.runtimeconfig.json
+D:\source\repos\JsonData\JsonData\bin\Debug\net6.0\JsonData.dll
+D:\source\repos\JsonData\JsonData\bin\Debug\net6.0\JsonData.pdb
+D:\source\repos\JsonData\JsonData\obj\Debug\net6.0\JsonData.csproj.AssemblyReference.cache
+D:\source\repos\JsonData\JsonData\obj\Debug\net6.0\JsonData.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\JsonData\JsonData\obj\Debug\net6.0\JsonData.AssemblyInfoInputs.cache
+D:\source\repos\JsonData\JsonData\obj\Debug\net6.0\JsonData.AssemblyInfo.cs
+D:\source\repos\JsonData\JsonData\obj\Debug\net6.0\JsonData.csproj.CoreCompileInputs.cache
+D:\source\repos\JsonData\JsonData\obj\Debug\net6.0\JsonData.dll
+D:\source\repos\JsonData\JsonData\obj\Debug\net6.0\refint\JsonData.dll
+D:\source\repos\JsonData\JsonData\obj\Debug\net6.0\JsonData.pdb
+D:\source\repos\JsonData\JsonData\obj\Debug\net6.0\JsonData.genruntimeconfig.cache
+D:\source\repos\JsonData\JsonData\obj\Debug\net6.0\ref\JsonData.dll
